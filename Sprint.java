@@ -61,7 +61,7 @@ this.underWriterId = underWriterId;
 }
 
 
-public class Master {
+public class Sprint {
 static String url = "jdbc:sqlite:D:\\Users\\2474623\\MySQLiteDB";
 static Connection conn = null;
 
@@ -630,4 +630,5 @@ switch (role) {
 }
 
 }
+
 
